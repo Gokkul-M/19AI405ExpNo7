@@ -211,6 +211,7 @@ if __name__ == "__main__":
     main()
 </code>
 <h2>Output: </h2>
+
 ![screencapture-localhost-8888-notebooks-Untitled5-ipynb-2024-04-26-07_40_39](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/59ae4789-e01b-457d-81f4-fa5162c1415d)
 <h2>Result:</h2>
 Thus ,the program is excecuted successfully.
