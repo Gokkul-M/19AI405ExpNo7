@@ -25,6 +25,7 @@ When added to a simple minimax algorithm, it gives the same output but cuts off 
 <hr>
 <h2>Input :</h2>
 <code>
+
   import time
 
 class Game:
@@ -210,7 +211,7 @@ if __name__ == "__main__":
     main()
 </code>
 <h2>Output: </h2>
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-04-26%2011-25-33.png![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/1f3bace5-3e89-4cea-acc7-3975d32b8acd)
+![Screenshot from 2024-04-26 11-25-33](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/fce7eef8-c04d-4c9c-a8be-60b1fc0c9df1)
 
 
 
