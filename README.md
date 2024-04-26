@@ -210,7 +210,7 @@ if __name__ == "__main__":
     main()
 </code>
 <h2>Output: </h2>
-![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/135a15e1-bb13-4906-8dae-6c0a50173a18)
+![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/013c23e3-5ead-4afc-b581-8177f9526e67)
 
 
 
