@@ -212,7 +212,7 @@ if __name__ == "__main__":
 </code>
 <h2>Output: </h2>
 ![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/f769d8ab-82fa-43cb-8a3c-de4bbc4ea82c)
-
-
+<h2>Result:</h2>
+Thus ,the program is excecuted successfully.
 
 
