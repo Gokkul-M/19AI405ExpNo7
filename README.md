@@ -211,7 +211,7 @@ if __name__ == "__main__":
     main()
 </code>
 <h2>Output: </h2>
-![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/f769d8ab-82fa-43cb-8a3c-de4bbc4ea82c)
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202024-04-26%2011-30-32.png![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/e02bca12-61aa-4e96-9784-1eb48ae6e106)
 <h2>Result:</h2>
 Thus ,the program is excecuted successfully.
 
