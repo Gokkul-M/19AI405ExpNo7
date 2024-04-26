@@ -211,7 +211,8 @@ if __name__ == "__main__":
     main()
 </code>
 <h2>Output: </h2>
-![Screenshot from 2024-04-26 11-25-33](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/fce7eef8-c04d-4c9c-a8be-60b1fc0c9df1)
+![image](https://github.com/Gokkul-M/19AI405ExpNo7/assets/144870543/f769d8ab-82fa-43cb-8a3c-de4bbc4ea82c)
+
 
 
 
